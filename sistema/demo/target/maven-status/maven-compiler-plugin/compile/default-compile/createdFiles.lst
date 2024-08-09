@@ -1,0 +1,6 @@
+com\example\demo\DemoApplication.class
+com\example\demo\DataController.class
+com\example\demo\Player.class
+com\example\demo\PlayerRepository.class
+com\example\demo\Model.class
+com\example\demo\PlayerService.class
